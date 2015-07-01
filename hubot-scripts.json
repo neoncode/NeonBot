@@ -7,5 +7,6 @@
 	"beerme.coffee",
 	"chuck-norris.coffee",
 	"excuse.coffee",
-	"xkcd.coffee"
+	"xkcd.coffee",
+	"github-commits.coffee"
 ]
